@@ -1,0 +1,15 @@
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\bin\Debug\netstandard2.0\XamarinCardGame.deps.json
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\bin\Debug\netstandard2.0\XamarinCardGame.dll
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\bin\Debug\netstandard2.0\XamarinCardGame.pdb
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.csproj.AssemblyReference.cache
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.AssemblyInfoInputs.cache
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.AssemblyInfo.cs
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.csproj.CoreCompileInputs.cache
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.dll
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\refint\XamarinCardGame.dll
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\XamarinCardGame.pdb
+C:\Users\riley\Desktop\XamarinCardGame\XamarinCardGame\XamarinCardGame\obj\Debug\netstandard2.0\ref\XamarinCardGame.dll

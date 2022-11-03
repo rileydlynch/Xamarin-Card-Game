@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+20hOtGXg3qFxeDxXM8nEox3r780lNFmZ85JgQLrCe+IH5rT5JivVVW9FMM9lPB+9SqhQi76kw/rKhIWz1V7mQ==",
+  "dgSpecHash": "SXOlxAGrgAtVSUSEnGDpQAtKWFjznaO/Ao9C7jmRykfxk+AkUZgSQ5bs2D5Gr2Kxe/glS/0Q5bsV+yPmGaW0Ig==",
   "success": true,
   "projectFilePath": "C:\\Users\\riley\\Desktop\\XamarinCardGame\\XamarinCardGame\\XamarinCardGame.Android\\XamarinCardGame.Android.csproj",
   "expectedPackageFiles": [
@@ -58,8 +58,9 @@
     "C:\\Users\\riley\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.8\\xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "C:\\Users\\riley\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.8\\xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\riley\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
-    "C:\\Users\\riley\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\riley\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\riley\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.5\\xamarin.communitytoolkit.2.0.5.nupkg.sha512",
+    "C:\\Users\\riley\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\riley\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
     "C:\\Users\\riley\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\riley\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
